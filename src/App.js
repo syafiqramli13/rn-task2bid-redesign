@@ -13,7 +13,7 @@ import LetsDuit from './screen/LetsDuit';
 
 LogBox.ignoreAllLogs();
 if (Text.defaultProps == null) Text.defaultProps = {};
-// Text.defaultProps.allowFontScaling = false;
+Text.defaultProps.allowFontScaling = false;
 
 export default class App extends Component {
 
