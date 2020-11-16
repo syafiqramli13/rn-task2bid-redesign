@@ -10,10 +10,7 @@ import TaskDetailsAssigned from './screen/TaskDetailsAssigned';
 import TaskDetailsCompleted from './screen/TaskDetailsCompleted';
 import TaskDetailsReviewed from './screen/TaskDetailsReviewed';
 import LetsDuit from './screen/LetsDuit';
-
 LogBox.ignoreAllLogs();
-if (Text.defaultProps == null) Text.defaultProps = {};
-Text.defaultProps.allowFontScaling = false;
 
 export default class App extends Component {
 
