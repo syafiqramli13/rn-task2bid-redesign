@@ -1,6 +1,8 @@
 # rn-task2bid-redesign
 Redesign Task2Bid (Asiatechub) app for 2 screen 'Task Post' &amp; 'Task Details'
 
+
+
 ## Available Scripts
 
 Install all dependencies
@@ -12,6 +14,14 @@ Run project on android device. Attempts to open your app on a connected Android 
 ```
 react-native run-android
 ```
+
+
+
+## App APK
+Download task2bid-redesign [apk file](https://drive.google.com/drive/folders/1to0LdnoCg1qeA563L-uK_60HnxfDrsNf?usp=sharing) here.
+
+
+
 
 ## App Screenshots
 
