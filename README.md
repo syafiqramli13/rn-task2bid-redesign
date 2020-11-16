@@ -8,6 +8,7 @@ Redesign Task2Bid (Asiatechub) app for 2 screen 'Task Post' &amp; 'Task Details'
 Install all dependencies
 ```
 yarn
+npm install
 ```
 
 Run project on android device. Attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
